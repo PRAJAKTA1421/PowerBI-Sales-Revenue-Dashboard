@@ -1,7 +1,7 @@
 # Power BI Sales & Revenue Dashboard 📊
 
 ## Project Overview
-This project focuses on analyzing sales and revenue data using Power BI to create an interactive business dashboard.
+This project focuses on analyzing sales and revenue data using Power BI to create an interactive business dashboard.Main foucs on data cleaning,data visulization.
 
 ## Key KPIs
 - Total Orders
